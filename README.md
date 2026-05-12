@@ -91,6 +91,7 @@ Aplicações focadas em evolução prática no desenvolvimento mobile utilizando
 
 <div align="center">
 
-✨ "Grandes resultados vêm de pequenas evoluções diárias." ✨
+✨ O teu princípio, na verdade, terá sido pequeno, porém o teu último estado crescerá em extremo.✨
+— Jó 8:7 
 
 </div>
