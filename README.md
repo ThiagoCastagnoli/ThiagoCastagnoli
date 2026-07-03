@@ -71,6 +71,78 @@ Projeto Android desenvolvido em equipe com foco em:
 * RecyclerView
 * Organização de layouts
 
+ ### 🚬 SmokeLine
+
+O **SmokeLine** é um aplicativo Android desenvolvido para auxiliar jogadores de **Counter-Strike 2** a encontrar e aprender smokes de forma rápida e organizada.
+
+Com uma interface moderna e intuitiva, o aplicativo reúne diferentes granadas de fumaça separadas por mapas, facilitando o aprendizado durante os treinos e partidas.
+
+---
+
+## ✨ Destaques
+
+- 🎯 Organização das smokes por mapa
+- 🔍 Navegação simples e intuitiva
+- 🔐 Sistema de autenticação com Firebase Authentication
+- 👤 Cadastro e Login de usuários
+- 🚪 Logout seguro
+- ✅ Validação de formulários com mensagens de erro nos campos
+- 🎨 Interface moderna com Material Design 3
+- 📱 Layout responsivo
+- 🧭 Bottom Navigation personalizada
+- ⚡ Navegação utilizando Fragments
+
+---
+
+## 🛠️ Tecnologias
+
+- Kotlin
+- Android SDK
+- XML
+- Firebase Authentication
+- Navigation Component
+- Material Design 3
+- View Binding
+
+---
+
+## 📷 Funcionalidades
+
+- Login
+- Cadastro
+- Recuperação de senha *(em desenvolvimento)*
+- Navegação entre telas
+- Lista de mapas
+- Visualização de smokes
+- Perfil do usuário
+- Configurações
+
+---
+
+## 🎯 Objetivo
+
+O objetivo do SmokeLine é oferecer uma maneira prática para que jogadores de Counter-Strike 2 possam consultar smokes durante treinos ou partidas, economizando tempo e facilitando o aprendizado.
+
+---
+
+## 🚀 Status
+
+🚧 Projeto em desenvolvimento.
+
+Novas funcionalidades serão adicionadas em breve, incluindo:
+
+- Favoritar smokes
+- Pesquisa por mapa
+- Vídeos demonstrativos
+- Compartilhamento de smokes
+- Login com Google e Facebook
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por **Thiago Castagnoli**.
+
 ### 📱 Projetos Android Kotlin
 
 Aplicações focadas em evolução prática no desenvolvimento mobile utilizando Kotlin e Android Studio.
