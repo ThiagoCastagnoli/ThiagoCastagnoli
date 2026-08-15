@@ -1,4 +1,4 @@
-#  Olá, eu sou Thiago Castagnoli 👋
+# Olá, eu sou Thiago Castagnoli 👋
 
 <div align="center">
 
